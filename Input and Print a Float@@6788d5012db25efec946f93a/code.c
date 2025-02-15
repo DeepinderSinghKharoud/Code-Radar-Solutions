@@ -1,8 +1,8 @@
 #include<stdio.h>
 
 int main{
-    char str1[50],str2[50];
-    scanf("%s %s" str1, str2);
-    print("You entered: %s and %s\n", str1,str2);
+    float num;
+    scanf("%f", &num);
+    printf("you entered: %.2f\n", num);
     return 0;
 }
