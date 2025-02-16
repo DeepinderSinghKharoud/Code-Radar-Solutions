@@ -4,9 +4,9 @@ int main(){
     scanf("%d",&a,&b);
     if(a > b ){
         printf("Loss\n");
-    } else if(a == b){
-        printf("No Profit No Loss");
+    } else if(a < b){
+        printf(" Profit );
     } else {
-        printf("Profit\n");
+        printf("No Profit No Loss\n");
     }
 }
