@@ -18,8 +18,9 @@ int main(){
          printf("Below Average\n");
          break;
         case 'F';
-          printf("Invalid grade\n");
-        
+         printf("Invalid grade\n");
+         break;
+         
     }
     return 0;
 }
