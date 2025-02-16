@@ -12,7 +12,7 @@ int main(){
             break;
         }
     }
-    if(is Prime)
+    if(isPrime)
         printf("Prime\n");
     
     else
