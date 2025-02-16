@@ -19,7 +19,7 @@ int main(){
               printf("Error\n");
             else
               printf("%d\n" num1 / num2);
-              break 0;
+            break 0;
         default:
             printf("Error\n");
     }
