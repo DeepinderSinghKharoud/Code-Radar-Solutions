@@ -9,7 +9,7 @@ int main(){
         case 4: case 6: case 9: case 11:
            printf("30\n");
         case 2:
-           print("28\n");
+           printf("28\n");
         default:
            printf("Invalid month");
 }
