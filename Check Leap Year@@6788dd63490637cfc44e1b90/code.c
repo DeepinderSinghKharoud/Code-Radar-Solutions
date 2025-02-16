@@ -3,8 +3,8 @@ int main{
     int num;
     scanf("%d",&num);
     if (num % 4 ==0){
-        printf("%d",Leap Year);
+        printf("Leap Year\n");
     } else{
-        printf("%d",Not a Leap Year);
+        printf("Not a Leap Year\n");
     }
 }
