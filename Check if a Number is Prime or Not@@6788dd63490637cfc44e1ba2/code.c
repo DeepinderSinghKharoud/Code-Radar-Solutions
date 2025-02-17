@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(){
+
   int isPrime(int num){
     if (num <= 1)
     return 0;
@@ -12,7 +12,7 @@ int main(){
     }
     return 1;
   }
-}
+  
   int main(){
     int num;
     scanf("%d",&num);
