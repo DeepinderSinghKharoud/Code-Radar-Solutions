@@ -12,6 +12,7 @@ int main(){
     }
     return 1;
   }
+}
   int main(){
     int num;
     scanf("%d",&num);
@@ -21,4 +22,3 @@ int main(){
       printf("Not Prime\n");
   }
   return 0;
-}
